@@ -1,17 +1,5 @@
 # My Data Science Course Project
 
-
-## Overview
-
-The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructors and classmates about them.
-
-Address a data-related problem in your professional field or a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll produce a better project!
-
-To stimulate your thinking, here is an excellent list of [public data sources](public_data.md). Using public data is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. You are also welcome to compete in a [Kaggle competition](http://www.kaggle.com/) as your project, in which case the data will be provided to you.
-
-You should also take a look at [past projects](project-examples.md) from other GA Data Science students, to get a sense of the variety and scope of projects.
-
-
 ## Project Deliverables
 
 You are responsible for creating a **project paper** and a **project presentation**. The paper should be written with a technical audience in mind, while the presentation should target a more general audience. You will deliver your presentation (including slides) during the final week of class, though you are also encouraged to present it to other audiences.
@@ -43,17 +31,8 @@ If it's not possible or practical to include your entire dataset, you should lin
 
 ## Milestones
 
+## What is the Question I hope to answer?
 
-### September 30 (Mandatory): Question and Data Set
-
-What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic?
-
-Example:
-
-* I'm planning to predict passenger survival on the Titanic.
-* I have Kaggle's Titanic dataset with 10 passenger characteristics.
-* I know that many of the fields have missing values, that some of the text fields are messy and will require cleaning, and that about 38% of the passengers in the training set survive.
-* I chose this topic because I'm fascinated by the history of the Titanic.
 
 
 ### October 26 (Mandatory): First Draft Due
